@@ -1,3 +1,15 @@
 Они отличаются коммитами.
 1ebbb726, 13e0611d - есть в demo, но нет в master
 97fb3e5b, 09efbfff, 67599f41, ca5418a9, df455a79 - есть в master, но нет в demo
+пункт 4
+add home task txt
+Merge branch 'boots_buttons'
+Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
